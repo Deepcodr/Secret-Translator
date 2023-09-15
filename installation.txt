@@ -1,0 +1,15 @@
+to run this project use following commands
+
+1)
+go to secrettranslator foldar and run 
+1) $npm install
+2) $npm start
+
+
+
+
+go to stbackend folder and use following commands
+1) $pip install playsound
+2) $pip install SpeechRecognition
+3) $pip install googletrans
+4) $pip install fuzzywuzzy
